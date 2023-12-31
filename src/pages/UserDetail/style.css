@@ -1,0 +1,119 @@
+/* Back Button */
+.back-button {
+  margin: 20px;
+}
+
+@media (max-width: 575px) {
+  .user-detail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    text-align: center;
+  }
+
+  .detail {
+    border: #57007b solid 2px;
+    border-radius: 20px;
+    padding: 15px;
+    background: var(--shade-light-background, #f0f0fa);
+  }
+
+  .user-info {
+    font-size: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+  .user-detail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    text-align: center;
+  }
+
+  .detail {
+    border: #57007b solid 2px;
+    border-radius: 20px;
+    padding: 40px;
+    background: var(--shade-light-background, #f0f0fa);
+  }
+
+  .user-info {
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+  .user-detail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    text-align: center;
+  }
+
+  .detail {
+    border: #57007b solid 2px;
+    border-radius: 20px;
+    padding: 40px;
+    background: var(--shade-light-background, #f0f0fa);
+  }
+
+  .user-info {
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+}
+
+@media (min-width: 993px) and (max-width: 1400px) {
+  .user-detail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    text-align: center;
+  }
+
+  .detail {
+    border: #57007b solid 2px;
+    border-radius: 20px;
+    padding: 40px 80px;
+    background: var(--shade-light-background, #f0f0fa);
+  }
+
+  .user-info {
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+}
+
+@media (min-width: 1401px) {
+  .user-detail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    text-align: center;
+  }
+
+  .detail {
+    border: #57007b solid 2px;
+    border-radius: 20px;
+    padding: 40px 80px;
+    background: var(--shade-light-background, #f0f0fa);
+  }
+
+  .user-info {
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+}
