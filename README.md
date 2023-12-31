@@ -20,3 +20,12 @@ This project is the second assignment from the Front-End Web Development Bootcam
 - **Pagination:** This feature allows users to scroll through the list of users gradually.
 - **Protected Routes:** This feature safeguards certain pages of the website from access by unregistered or non-logged-in users.
 - **Responsive Design:** This feature ensures that the website is accessible and well-presented across various devices, including computers, laptops, tablets, and smartphones.
+<<<<<<< HEAD
+=======
+
+## UI Design Resources
+
+- **Landing Page:** https://www.figma.com/file/LZkWEQgiIt3CXO8R6mvZAu/Web-Design---Digital-Agency-website-Design-(Community)?node-id=315%3A752&mode=dev
+
+- **Login Page** https://www.figma.com/file/ZoQeB0x7T94dda9FMxcQBw/Login-Page-(Community)?node-id=0%3A1&mode=dev
+>>>>>>> 4c343b9 (edited MD)
