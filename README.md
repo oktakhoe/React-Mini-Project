@@ -20,8 +20,6 @@ This project is the second assignment from the Front-End Web Development Bootcam
 - **Pagination:** This feature allows users to scroll through the list of users gradually.
 - **Protected Routes:** This feature safeguards certain pages of the website from access by unregistered or non-logged-in users.
 - **Responsive Design:** This feature ensures that the website is accessible and well-presented across various devices, including computers, laptops, tablets, and smartphones.
-<<<<<<< HEAD
-=======
 
 ## UI Design Resources
 
